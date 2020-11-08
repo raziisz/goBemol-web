@@ -56,8 +56,8 @@ const Login = () => {
                     <form className="card p-4 mt-5 col-5" onSubmit={handleSubmit}> 
                         <h2 className="pl-3 pt-3">Conecte já!</h2>
                         <div className="card-body">
-                            <input type="text" className="form-control mb-2" placeholder="Seu email" onChange={e => setEmail(e.target.value)} value={email}/>
-                            <input type="password" className="form-control mb-2" placeholder="Sua senha" onChange={e => setPassword(e.target.value)} value={password}/>
+                            <input type="text" className="form-control mb-2" placeholder="Seu email" onChange={e => setEmail(e.target.value)} value={email} required/>
+                            <input type="password" className="form-control mb-2" placeholder="Sua senha" onChange={e => setPassword(e.target.value)} value={password} required/>
                             <button className="btn btn-primary mt-2 mb-5" type="submit">Entrar</button>
                             <p>Não tem conta? <Link to="/signup">Clique aqui</Link> para criar uma!!</p>
                         </div>

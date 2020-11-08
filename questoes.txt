@@ -1,0 +1,19 @@
+1. A solução deve ser disponibilizada em Cloud ou On-premise?
+R: On-premise
+
+2. Considerando a participação de 4 pessoas técnicas para o desenvolvimento dessa
+solução, responda qual ferramenta acreditas ser apropriada para o controle de
+tarefas da equipe, a ferramenta é ágil?
+R: Jira Software, ferramenta ágil, excelente para gestão das atividades, sprint, projetos. Muito bom para desenvolvimento.
+
+3. Você se sente capaz de liderar esta equipe? Por quê?
+R: Sim, porque já tive bastante experiências com lideres ótimos, bons e ruins. Com isso fui criando minha própria base de conhecimento
+com aprendizados, erros e melhorias. Além de ótima disponibilidade com pessoas, como: incentivo, liderança, reconhecimentos, veste a camisa da equipe.
+
+4. Se pudesse sugerir uma melhoria, mudança ou oportunidade. O que seria?
+R: Mudança, mudar API de .Net Core para Node.js assim unificando a produtividade da equipe com uma unica Linguagem de programação
+com Javascript em backend, frontend e mobile.
+Oportunidade para o uso da stack Javascript em React e React Native.
+
+5. Acha válido esse desafio para o processo que está participando?
+Sim, bastante válido, fazer parte da equipe da Bemol Digital não é para qualquer um. 
