@@ -41,3 +41,12 @@ main .text-info {
   
   transform: scale(0.7);
 }
+
+main .form-new a {
+  text-decoration: none;
+  margin-bottom: 15px;
+}
+
+main .form-new a svg {
+  margin-right: 5px;
+}

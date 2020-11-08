@@ -30,7 +30,7 @@ export default ({
           </div>
           <input onChange={(e) => handleChange(e.target.value)} type={type} className="form-control" placeholder={placeholder} value={value} required={required} maxLength={maxLength > 0 ? maxLength : ""}/>
         </div>
-        <small class="form-text text-muted mb-2">{textUnder}</small>
+        <small className="form-text text-muted mb-2">{textUnder}</small>
       </>
     ) : 
     (

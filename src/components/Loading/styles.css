@@ -1,0 +1,11 @@
+.carregamento-container {
+  position: fixed;
+  background: rgb(0, 0, 0, .5);
+  height: 100vh;
+  width: 100vw;
+  z-index: 1031;   
+}
+
+.carregamento-container h5{
+  color: #fff;
+}
