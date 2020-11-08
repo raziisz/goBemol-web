@@ -1,8 +1,15 @@
 import React from 'react';
+import { ToastContainer } from 'react-toastify';
+
+import Routes from './routes/router'; 
 
 function App() {
   return (
-    <h1>Hello world!</h1>
+    <>
+      <ToastContainer />
+      <Routes />
+    </>
+    
   );
 }
 

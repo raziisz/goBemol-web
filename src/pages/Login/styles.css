@@ -1,0 +1,13 @@
+.image-logo {
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+
+.image-logo img {
+  max-width: 100%;
+  height: auto;
+}

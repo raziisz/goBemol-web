@@ -14,8 +14,8 @@ export const isAuthenticated = () => {
 
 export const getToken = () => localStorage.getItem('token_key');
 
-export const login = (token,id) => {
+export const login = (token) => {
   localStorage.setItem('token_key', token);
 }
 
-export const logout = () => localStorage.clear();W
+export const logout = () => localStorage.clear();

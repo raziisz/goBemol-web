@@ -1,0 +1,43 @@
+main {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+main .title {
+  color: #050388;
+}
+main .form-new {
+  max-width: 735px;
+  width: 100%;
+  height: auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: left;
+  align-items: left;
+}
+
+main .text-info {
+  color: #ccc;
+}
+
+.form-new .buttons {
+  display: flex;
+  flex-direction: row-reverse;
+}
+
+.form-new .buttons button {
+  margin-right: 3px;
+  margin-bottom: 20px;
+}
+
+.form-new .search {
+  cursor: pointer;
+  transition: transform 0.5s;
+}
+
+.form-new .search:active {
+  
+  transform: scale(0.7);
+}
